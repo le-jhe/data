@@ -8,10 +8,12 @@
 
 ## Docker for dev
 
+
   --link  : to link a network addressable name
   -v      : local-vol:remote-mount
   -it     : i ::= interractive | t ::= tty (screen)
   -e      : env variables
+
 
 ## Tracking the bug from hell
 * Debug variables values option for gcc
@@ -27,8 +29,8 @@
 
 ## Jenkins job DSL
 * Jenkins Job DSL
-** Groovy DSL
-** Rundeck : "jenkins for Ops"
+  * Groovy DSL
+  * Rundeck : "jenkins for Ops"
 * seed-job
   * define all your jenkins jobs from there..
 * No manual changes in jenkins prod !
@@ -58,8 +60,9 @@
 * DilOS
   * OpenSolaris + dpkg + apt-get
 * http://open-zfs.org
+
 ## TODO
 * Play with kibana !
 * check zfs-on-linux ml
 * RedHat versus zfs ?
-* 
+* See rundeck
