@@ -48,7 +48,7 @@
 * container ::= app
 
 ## Tracking non determinism in Hadoop
-* http://github.com/osgr
+* https://github.com/osrg/earthquake
 * newSQL ?
   
 ## Eclipse & tools
