@@ -57,6 +57,7 @@
 
 ## IllumOS
 * "IllumOs Fork Yeah" on youtube @minute 33
+/Kicked Butt, Had Fun, Didn’t Cheat, Loved Our Customers, Changed Computing Forever/
 * DilOS
   * OpenSolaris + dpkg + apt-get
 * http://open-zfs.org
