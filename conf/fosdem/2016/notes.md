@@ -34,16 +34,32 @@
 * No manual changes in jenkins prod !
   * All done via DSL.
   
-  ## Namespace / cgroups
-  * unshare command : forks the kernel environment
-  * IP Masquerade ?
-    * CNI ::= Container Network Infrastructure
-  * Today's containers always use root !
-    * @See : user namespaces
-  * docker images relies on the user's uid...
-  * Cgroups ::= resources (CPU / RAM /...) limits per processes / group of processes
-  * pod ::= app*
-  * container ::= app
+## Namespace / cgroups
+* unshare command : forks the kernel environment
+* IP Masquerade ?
+  * CNI ::= Container Network Infrastructure
+* Today's containers always use root !
+  * @See : user namespaces
+* docker images relies on the user's uid...
+* Cgroups ::= resources (CPU / RAM /...) limits per processes / group of processes
+* pod ::= app*
+* container ::= app
+
+## Tracking non determinism in Hadoop
+* http://github.com/osgr
+* newSQL ?
   
-  ## Tracking non determinism in Hadoop
-  * http://github.com/osgr
+## Eclipse & tools
+* gerrit for a git server ?
+* "git staging view" in eclipse <-> pull requests ?
+
+## IllumOS
+* "IllumOs Fork Yeah" on youtube @minute 33
+* DilOS
+  * OpenSolaris + dpkg + apt-get
+* http://open-zfs.org
+## TODO
+* Play with kibana !
+* check zfs-on-linux ml
+* RedHat versus zfs ?
+* 
