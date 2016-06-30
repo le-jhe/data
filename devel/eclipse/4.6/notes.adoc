@@ -1,0 +1,7 @@
+= eclipse 4.6
+== install notes
+=== m2e scm connector
+* m2e-egit
+* m2e-subversive
+** svn kit 1.7.14
+** svn kit 1.8.11
